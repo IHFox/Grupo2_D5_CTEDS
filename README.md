@@ -19,3 +19,14 @@ Funcionalidades a serem desenvolvidas:
 ## User Story Map
 ![image](https://user-images.githubusercontent.com/68930353/183538830-20e7aa2e-3bd7-4f75-90a3-91ff612f7685.png)
 ![image](https://user-images.githubusercontent.com/68930353/183538839-87e291f1-97d1-4024-bb92-6d6f8baa17fd.png)
+
+## Requisitos não funcionais
+
+- Menus simples e bem estruturados: A navegação por parte dos usuários deve 
+ser simples e intuitiva, melhorando a usabilidade e promovendo um maior interesse 
+pelo layout da página.
+- Interoperabilidade: O site deve possuir capacidade de rodar nos principais 
+browsers, e também a capacidade de realizar comunicação com serviços de cartão 
+de crédito.
+- Segurança das informações pessoais: O site não deve expor as informações 
+pessoais dos usuários
