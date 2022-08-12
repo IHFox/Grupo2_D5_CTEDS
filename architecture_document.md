@@ -5,6 +5,7 @@
 | :- | :- | :- | :- |
 | 08/08/2022 | 0.1 | Adição do tópico Objetivo |  Maurício Pirâmides |
 | 08/08/2022 | 0.2 | Adição da Representação arquitetural |  Maurício Pirâmides |
+| 12/08/2022 | 0.3 | Atuaização da representação arquitetural |  Maurício e Pedro |
 
 ## 1. Introdução
 
