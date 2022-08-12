@@ -1,7 +1,9 @@
 # Loja virtual - Venda de jogos (mídia física)
 
-O Escopo do projeto será desenvolver uma página web com funcionalidade de loja virtual.
-O público alvo dessa loja seriam consumidores de jogos mídia física. Justificativa: hoje não há loja centralizada para venda ou revenda de mídia física para jogos.
+O Escopo do projeto será desenvolver uma página web e no qual o principal objetivo é oferecer aos usuários uma interface para que seja realizado compras e vendas de jogos eletrônicos.
+O Brasil é um dos maiores mercados de videogames do mundo, e muitos dos consumidores adquirem algum jogo, terminam e gostariam de trocá-lo por algum novo ou revendê-lo. Por outro lado, há consumidores que gostariam de adquirir novos jogos 
+com preços mais acessíveis sem se importar se já foram usados, ou mesmo de contactar vendedores de lojas varejistas menores para comparação de preços entre produtos novos, e também produtos usados.
+A intenção da plataforma é prover o encontro do nicho de consumidores de jogos mídia física, permitindo com que seja catalogado jogos e vendedores. De tal forma que por uma interface simples, segurança das transações, sigilo e confiabilidade das informações seja facilitado aos jogadores a compra e venda desses produtos específicos.
 
 ## Funcionalidades
 
