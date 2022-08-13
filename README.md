@@ -5,6 +5,8 @@ O Brasil é um dos maiores mercados de videogames do mundo, e muitos dos consumi
 com preços mais acessíveis sem se importar se já foram usados, ou mesmo de contactar vendedores de lojas varejistas menores para comparação de preços entre produtos novos, e também produtos usados.
 A intenção da plataforma é prover o encontro do nicho de consumidores de jogos mídia física, permitindo com que seja catalogado jogos e vendedores. De tal forma que por uma interface simples, segurança das transações, sigilo e confiabilidade das informações seja facilitado aos jogadores a compra e venda desses produtos específicos.
 
+Pages: https://ihfox.github.io/Grupo2_D5_CTEDS/
+
 ## 1 Funcionalidades
 
 Funcionalidades a serem desenvolvidas:
